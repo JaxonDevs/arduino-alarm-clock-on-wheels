@@ -27,5 +27,5 @@ When the alarm goes off, the clock *"runs away"*.
 ### 📜 Credits
 Dependency's credit goes out to their respective owners. 
 ---
-Made my Travis Brooks and Jaxon Smurthwaite.
+Project made by Travis Brooks and Jaxon Smurthwaite.
 
